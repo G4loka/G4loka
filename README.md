@@ -1,4 +1,4 @@
-n # 💫 About Me:
+💫 About Me:
 🤝 I’m looking to collaborate on web development projects.<br><br>👯 I’m looking for help with improving my PHP and SQL skills.<br><br>🌱 I’m currently learning Linux system administration and backend development.<br><br>💬 Ask me about data infrastructure, programming, games, or fitness.<br><br>⚡ Fun fact: I dream of doing a road trip in the future.
 
 
